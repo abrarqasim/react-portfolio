@@ -190,7 +190,7 @@ export const projects = [
 		name: "E-Commerce Platform for TechStore",
 		description:
 			"Developed a comprehensive e-commerce platform for TechStore, featuring a custom WordPress theme, integrated payment gateways, and advanced product filtering options. This project also included the creation of a custom plugin for inventory management, ensuring seamless operation and user experience.",
-		link: "https://github.com/adrianhajdin/pricewise",
+		link: "https://github.com/abrarqasim",
 	},
 	{
 		iconUrl: threads,
@@ -198,7 +198,7 @@ export const projects = [
 		name: "Educational CMS for EduLearn",
 		description:
 			"Built a scalable and user-friendly CMS for EduLearn, an online education provider. Utilized React and Next.js to create an interactive and responsive user interface. Integrated various educational tools and resources, including video tutorials, quizzes, and progress tracking, to enhance the learning experience.",
-		link: "https://github.com/adrianhajdin/threads",
+		link: "https://github.com/abrarqasim",
 	},
 	{
 		iconUrl: car,
@@ -206,7 +206,7 @@ export const projects = [
 		name: "Real Estate Listing Site for HomeFinders",
 		description:
 			"Designed and developed a real estate listing site for HomeFinders using PHP and WordPress. Implemented advanced search functionalities, interactive maps, and property comparison features. The site also includes a custom-built CRM system for managing client inquiries and property listings.p for finding and comparing cars on the market, streamlining the car-buying process.",
-		link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+		link: "https://github.com/abrarqasim",
 	},
 	{
 		iconUrl: snapgram,
@@ -214,7 +214,7 @@ export const projects = [
 		name: "Hybrid Mobile App for FitnessPro",
 		description:
 			"Created a hybrid mobile app for FitnessPro, a fitness and wellness company. The app, built with React Native, provides users with personalized workout plans, nutrition advice, and progress tracking. Integrated with wearable devices for real-time health monitoring and data synchronization.",
-		link: "https://github.com/adrianhajdin/social_media_app",
+		link: "https://github.com/abrarqasim",
 	},
 	{
 		iconUrl: estate,
@@ -222,7 +222,7 @@ export const projects = [
 		name: "Custom Plugin for Event Management",
 		description:
 			"Developed a custom WordPress plugin for EventHub, a platform for managing events and conferences. The plugin features ticket booking, attendee management, and schedule creation. Designed to be highly customizable, it allows event organizers to tailor functionalities to their specific needs.",
-		link: "https://github.com/adrianhajdin/projects_realestate",
+		link: "https://github.com/abrarqasim",
 	},
 	{
 		iconUrl: summiz,
@@ -230,6 +230,6 @@ export const projects = [
 		name: "AI Summarizer Application",
 		description:
 			"App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs. Utilized ChatGPT API for natural language processing and text summarization. The app also includes a user-friendly interface for inputting text and viewing the generated summaries.",
-		link: "https://github.com/adrianhajdin/project_ai_summarizer",
+		link: "https://github.com/abrarqasim",
 	},
 ];
