@@ -34,7 +34,11 @@ const About = () => {
 			<div className="py-16">
 				<h3 className="subhead-text">Work Experience.</h3>
 				<div className="mt-5 flex flex-col gap-3 text-slate-500">
-					<p>I've worked with all sorts of companies, leveling up my skills and teaming up with smart people. Here's the rundown:</p>
+					<p>
+						With nearly seven years of experience in the tech industry, I have honed my skills across various domains, from web development and CMS integration to
+						plugin creation and hybrid applications. My journey has taken me through numerous challenging and rewarding projects, each contributing to my growth as a
+						versatile and innovative developer.
+					</p>
 				</div>
 
 				<div className="mt-12 flex">
@@ -46,7 +50,7 @@ const About = () => {
 								iconStyle={{ background: experience.iconBg }}
 								icon={
 									<div className="flex justify-center items-center w-full h-full">
-										<img src={experience.icon} alt={experience.company_name} className="w-[60%] h-[60%] object-contain" />
+										{/* <img src={experience.icon} alt={experience.company_name} className="w-[60%] h-[60%] object-contain" /> */}
 									</div>
 								}
 								contentStyle={{
